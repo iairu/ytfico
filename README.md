@@ -13,9 +13,19 @@
 - Use **throwaway Google account** just in case (there will be more people attempting something similar in the same timeframe, potentially raising DDOS suspicion at YouTube and you don't want to be considered a bot by Google and get your main account purged without support)
 - Launch **multiple instances** on multiple accounts over different networks with **different API delay** setting to cover more time.
 - If no success still keep periodically trying in Gaussian curve bursts until new video or give up at a given time.
-
 - When new upload is found:
   - Send an insert request for a comment to the API immediately afterwards taking response into account (retry if error)
   - Additional insert request with different contents 750ms after first.
-
 - Ideally GZip all requests.
+
+## Launch
+
+```
+python -m venv venv
+venv/Scripts/activate
+(which python / where python => venv)
+(which pip / where pip => venv)
+pip install -m requirements.txt
+python .
+```
+

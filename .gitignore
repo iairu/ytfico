@@ -1,0 +1,2 @@
+venv/*
+!venv/pyvenv.cfg
