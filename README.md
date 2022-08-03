@@ -25,7 +25,7 @@ python -m venv venv
 venv/Scripts/activate
 (which python / where python => venv)
 (which pip / where pip => venv)
-pip install -m requirements.txt
+pip install -r requirements.txt
 python .
 ```
 
