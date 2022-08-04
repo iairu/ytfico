@@ -20,6 +20,8 @@
 
 ## Launch
 
+### Environment
+
 ```
 python -m venv venv
 venv/Scripts/activate
@@ -29,3 +31,8 @@ pip install -r requirements.txt
 python .
 ```
 
+### YouTube API Credentials
+
+- `client_secret.json` needs to be obtained from API console after adding an OAuth option, see docs:
+https://developers.google.com/youtube/v3/quickstart/python?hl=en#step_1_set_up_your_project_and_credentials
+- `client_tokens.json` gets generated on run and saves session tokens so you don't need to reauthorize on each run

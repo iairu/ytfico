@@ -2,3 +2,8 @@ __pycache__/*
 venv/*
 !venv/pyvenv.cfg
 *.log
+client_secret.json
+client_secret*.json
+client_token.json
+client_token*.json
+token.json
