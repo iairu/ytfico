@@ -144,7 +144,20 @@ def YouTubeAPI_PUT_videoComment_BURST(youtube, videoId, comment, max_burst_attem
         print(prefix + "Error (videoComment_BURST): user_max_burst_attempts exhausted. Giving up.")
     return
 
-
+# Quota cost: 1
+def YouTubeAPI_GET_commentPage(youtube, videoId, page_token=None):
+    request = youtube.commentThreads().list(
+        part="snippet",
+        videoId=videoId, # mrbeast 100 mil sub special
+        pageToken=page_token
+    )
+    res = request.execute()
+    nextPageToken = None
+    try:
+        nextPageToken = res.get("nextPageToken")
+    except:
+        nextPageToken = None
+    return (res, nextPageToken)
 
 
 
@@ -188,17 +201,7 @@ class YTCommenter:
             return True
 
     def get_comments(yt, user_videoid, page_token=None):
-        request = yt.commentThreads().list(
-            part="snippet",
-            videoId=user_videoid, # mrbeast 100 mil sub special
-            pageToken=page_token
-        )
-        res = request.execute()
-        nextPageToken = None
-        try:
-            nextPageToken = res.get("nextPageToken")
-        except:
-            nextPageToken = None
+        res, nextPageToken = YouTubeAPI_GET_commentPage(yt, videoId=user_videoid, page_token=page_token)
         return (res, nextPageToken)
         
 
