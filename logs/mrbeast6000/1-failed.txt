@@ -1,0 +1,1000 @@
+- Async request ID:328
+  >> 326: Video is in blacklist, skipping.
+  >> 327: Start
+  >> 327: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 327: Video is in blacklist, skipping.
+  >> 328: Start
+  >> 328: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 328: Video is in blacklist, skipping.
+Second 1659635747: Sending 2 requests/second
+- Async request ID:329
+- Async request ID:330
+  >> 329: Start
+  >> 329: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 329: Video is in blacklist, skipping.
+  >> 330: Start
+  >> 330: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 330: Video is in blacklist, skipping.
+Second 1659635750: Sending 2 requests/second
+- Async request ID:331
+- Async request ID:332
+  >> 331: Start
+Second 1659635751: Sending 2 requests/second
+- Async request ID:333
+  >> 331: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 331: Video is in blacklist, skipping.
+  >> 332: Start
+- Async request ID:334
+  >> 332: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 332: Video is in blacklist, skipping.
+  >> 333: Start
+  >> 333: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 333: Video is in blacklist, skipping.
+  >> 334: Start
+  >> 334: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 334: Video is in blacklist, skipping.
+Second 1659635754: Sending 2 requests/second
+- Async request ID:335
+- Async request ID:336
+  >> 335: Start
+  >> 335: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 335: Video is in blacklist, skipping.
+  >> 336: Start
+  >> 336: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 336: Video is in blacklist, skipping.
+Joining threads be patient...
+- Joining finished... Resyncing...
+Sending 49 requests/minute
+Position: cpm_timeline[55]...
+Joining threads be patient...
+- Joining finished... Resyncing...
+Sending 34 requests/minute
+Position: cpm_timeline[56]...
+Second 1659635761: Sending 2 requests/second
+- Async request ID:337
+- Async request ID:338
+  >> 337: Start
+Second 1659635762: Sending 2 requests/second
+- Async request ID:339
+  >> 337: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 337: Video is in blacklist, skipping.
+  >> 338: Start
+  >> 338: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 338: Video is in blacklist, skipping.
+- Async request ID:340
+  >> 339: Start
+Second 1659635763: Sending 3 requests/second
+- Async request ID:341
+  >> 339: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 339: Video is in blacklist, skipping.
+- Async request ID:342
+  >> 340: Start
+  >> 340: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 340: Video is in blacklist, skipping.
+- Async request ID:343
+  >> 341: Start
+Second 1659635764: Sending 3 requests/second
+- Async request ID:344
+  >> 341: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 341: Video is in blacklist, skipping.
+  >> 342: Start
+  >> 342: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 342: Video is in blacklist, skipping.
+- Async request ID:345
+  >> 343: Start
+  >> 343: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 343: Video is in blacklist, skipping.
+- Async request ID:346
+  >> 344: Start
+Second 1659635765: Sending 2 requests/second
+- Async request ID:347
+  >> 344: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 344: Video is in blacklist, skipping.
+  >> 345: Start
+  >> 345: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 345: Video is in blacklist, skipping.
+- Async request ID:348
+  >> 346: Start
+  >> 346: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 346: Video is in blacklist, skipping.
+  >> 347: Start
+  >> 347: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 347: Video is in blacklist, skipping.
+  >> 348: Start
+  >> 348: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 348: Video is in blacklist, skipping.
+Second 1659635770: Sending 2 requests/second
+- Async request ID:349
+- Async request ID:350
+  >> 349: Start
+  >> 349: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 349: Video is in blacklist, skipping.
+  >> 350: Start
+  >> 350: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 350: Video is in blacklist, skipping.
+Second 1659635774: Sending 2 requests/second
+- Async request ID:351
+- Async request ID:352
+  >> 351: Start
+Second 1659635775: Sending 2 requests/second
+- Async request ID:353
+  >> 351: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 351: Video is in blacklist, skipping.
+  >> 352: Start
+- Async request ID:354
+  >> 352: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 352: Video is in blacklist, skipping.
+  >> 353: Start
+  >> 353: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 353: Video is in blacklist, skipping.
+  >> 354: Start
+  >> 354: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 354: Video is in blacklist, skipping.
+Second 1659635783: Sending 2 requests/second
+- Async request ID:355
+- Async request ID:356
+  >> 355: Start
+  >> 355: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 355: Video is in blacklist, skipping.
+  >> 356: Start
+  >> 356: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 356: Video is in blacklist, skipping.
+Second 1659635787: Sending 2 requests/second
+- Async request ID:357
+- Async request ID:358
+  >> 357: Start
+  >> 357: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 357: Video is in blacklist, skipping.
+  >> 358: Start
+  >> 358: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 358: Video is in blacklist, skipping.
+Second 1659635792: Sending 2 requests/second
+- Async request ID:359
+- Async request ID:360
+  >> 359: Start
+  >> 359: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 359: Video is in blacklist, skipping.
+  >> 360: Start
+  >> 360: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 360: Video is in blacklist, skipping.
+Second 1659635803: Sending 2 requests/second
+- Async request ID:361
+- Async request ID:362
+  >> 361: Start
+  >> 361: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 361: Video is in blacklist, skipping.
+  >> 362: Start
+  >> 362: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 362: Video is in blacklist, skipping.
+Second 1659635812: Sending 2 requests/second
+- Async request ID:363
+- Async request ID:364
+  >> 363: Start
+  >> 363: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 363: Video is in blacklist, skipping.
+  >> 364: Start
+  >> 364: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 364: Video is in blacklist, skipping.
+Second 1659635820: Sending 2 requests/second
+- Async request ID:365
+- Async request ID:366
+Joining threads be patient...
+  >> 365: Start
+  >> 365: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 365: Video is in blacklist, skipping.
+  >> 366: Start
+  >> 366: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 366: Video is in blacklist, skipping.
+- Joining finished... Resyncing...
+Sending 48 requests/minute
+Position: cpm_timeline[57]...
+Second 1659635821: Sending 3 requests/second
+- Async request ID:367
+- Async request ID:368
+- Async request ID:369
+Second 1659635822: Sending 3 requests/second
+- Async request ID:370
+  >> 367: Start
+  >> 367: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 367: Video is in blacklist, skipping.
+- Async request ID:371
+  >> 368: Start
+  >> 368: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 368: Video is in blacklist, skipping.
+- Async request ID:372
+  >> 369: Start
+  >> 369: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 369: Video is in blacklist, skipping.
+Second 1659635823: Sending 3 requests/second
+- Async request ID:373
+  >> 370: Start
+  >> 370: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 370: Video is in blacklist, skipping.
+- Async request ID:374
+  >> 371: Start
+  >> 371: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 371: Video is in blacklist, skipping.
+- Async request ID:375
+  >> 372: Start
+  >> 372: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 372: Video is in blacklist, skipping.
+  >> 373: Start
+Second 1659635824: Sending 2 requests/second
+- Async request ID:376
+  >> 373: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 373: Video is in blacklist, skipping.
+  >> 374: Start
+  >> 374: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 374: Video is in blacklist, skipping.
+- Async request ID:377
+  >> 375: Start
+  >> 375: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 375: Video is in blacklist, skipping.
+  >> 376: Start
+  >> 376: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 376: Video is in blacklist, skipping.
+  >> 377: Start
+  >> 377: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 377: Video is in blacklist, skipping.
+Second 1659635827: Sending 2 requests/second
+- Async request ID:378
+- Async request ID:379
+  >> 378: Start
+Second 1659635828: Sending 2 requests/second
+- Async request ID:380
+  >> 378: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 378: Video is in blacklist, skipping.
+  >> 379: Start
+  >> 379: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 379: Video is in blacklist, skipping.
+- Async request ID:381
+  >> 380: Start
+  >> 380: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 380: Video is in blacklist, skipping.
+  >> 381: Start
+  >> 381: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 381: Video is in blacklist, skipping.
+Second 1659635830: Sending 2 requests/second
+- Async request ID:382
+- Async request ID:383
+  >> 382: Start
+  >> 382: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 382: Video is in blacklist, skipping.
+  >> 383: Start
+  >> 383: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 383: Video is in blacklist, skipping.
+Second 1659635838: Sending 2 requests/second
+- Async request ID:384
+- Async request ID:385
+  >> 384: Start
+  >> 384: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 384: Video is in blacklist, skipping.
+  >> 385: Start
+  >> 385: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 385: Video is in blacklist, skipping.
+Second 1659635841: Sending 2 requests/second
+- Async request ID:386
+- Async request ID:387
+  >> 386: Start
+Second 1659635842: Sending 2 requests/second
+- Async request ID:388
+  >> 386: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 386: Video is in blacklist, skipping.
+  >> 387: Start
+  >> 387: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 387: Video is in blacklist, skipping.
+- Async request ID:389
+  >> 388: Start
+  >> 388: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 388: Video is in blacklist, skipping.
+  >> 389: Start
+  >> 389: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 389: Video is in blacklist, skipping.
+Second 1659635847: Sending 2 requests/second
+- Async request ID:390
+- Async request ID:391
+  >> 390: Start
+Second 1659635848: Sending 2 requests/second
+- Async request ID:392
+  >> 390: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 390: Video is in blacklist, skipping.
+- Async request ID:393
+  >> 391: Start
+  >> 391: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 391: Video is in blacklist, skipping.
+  >> 392: Start
+  >> 392: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 392: Video is in blacklist, skipping.
+  >> 393: Start
+  >> 393: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 393: Video is in blacklist, skipping.
+Second 1659635850: Sending 2 requests/second
+- Async request ID:394
+- Async request ID:395
+  >> 394: Start
+  >> 394: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 394: Video is in blacklist, skipping.
+  >> 395: Start
+  >> 395: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 395: Video is in blacklist, skipping.
+Second 1659635855: Sending 2 requests/second
+- Async request ID:396
+- Async request ID:397
+  >> 396: Start
+  >> 396: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 396: Video is in blacklist, skipping.
+  >> 397: Start
+  >> 397: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 397: Video is in blacklist, skipping.
+Second 1659635857: Sending 2 requests/second
+- Async request ID:398
+- Async request ID:399
+  >> 398: Start
+  >> 398: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 398: Video is in blacklist, skipping.
+  >> 399: Start
+  >> 399: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 399: Video is in blacklist, skipping.
+Second 1659635859: Sending 2 requests/second
+- Async request ID:400
+- Async request ID:401
+  >> 400: Start
+  >> 400: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 400: Video is in blacklist, skipping.
+  >> 401: Start
+  >> 401: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 401: Video is in blacklist, skipping.
+Second 1659635863: Sending 2 requests/second
+- Async request ID:402
+- Async request ID:403
+  >> 402: Start
+Second 1659635864: Sending 2 requests/second
+- Async request ID:404
+  >> 402: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 402: Video is in blacklist, skipping.
+  >> 403: Start
+- Async request ID:405
+  >> 403: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 403: Video is in blacklist, skipping.
+  >> 404: Start
+  >> 404: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 404: Video is in blacklist, skipping.
+  >> 405: Start
+  >> 405: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 405: Video is in blacklist, skipping.
+Second 1659635866: Sending 2 requests/second
+- Async request ID:406
+- Async request ID:407
+  >> 406: Start
+  >> 406: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 406: Video is in blacklist, skipping.
+  >> 407: Start
+  >> 407: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 407: Video is in blacklist, skipping.
+Second 1659635872: Sending 2 requests/second
+- Async request ID:408
+- Async request ID:409
+  >> 408: Start
+  >> 408: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 408: Video is in blacklist, skipping.
+  >> 409: Start
+  >> 409: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 409: Video is in blacklist, skipping.
+Second 1659635877: Sending 2 requests/second
+- Async request ID:410
+- Async request ID:411
+  >> 410: Start
+  >> 410: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 410: Video is in blacklist, skipping.
+  >> 411: Start
+  >> 411: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 411: Video is in blacklist, skipping.
+Joining threads be patient...
+- Joining finished... Resyncing...
+Sending 48 requests/minute
+Position: cpm_timeline[57]...
+Joining threads be patient...
+- Joining finished... Resyncing...
+Sending 43 requests/minute
+Position: cpm_timeline[58]...
+Second 1659635881: Sending 3 requests/second
+- Async request ID:412
+- Async request ID:413
+- Async request ID:414
+  >> 412: Start
+Second 1659635882: Sending 3 requests/second
+- Async request ID:415
+  >> 412: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 412: Video is in blacklist, skipping.
+  >> 413: Start
+  >> 413: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 413: Video is in blacklist, skipping.
+- Async request ID:416
+  >> 414: Start
+  >> 414: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 414: Video is in blacklist, skipping.
+- Async request ID:417
+  >> 415: Start
+Second 1659635883: Sending 3 requests/second
+- Async request ID:418
+  >> 415: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 415: Video is in blacklist, skipping.
+  >> 416: Start
+  >> 416: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 416: Video is in blacklist, skipping.
+- Async request ID:419
+  >> 417: Start
+- Async request ID:420
+  >> 417: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 417: Video is in blacklist, skipping.
+Second 1659635884: Sending 2 requests/second
+  >> 418: Start
+- Async request ID:421
+  >> 418: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 418: Video is in blacklist, skipping.
+  >> 419: Start
+  >> 419: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 419: Video is in blacklist, skipping.
+- Async request ID:422
+  >> 420: Start
+  >> 420: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 420: Video is in blacklist, skipping.
+Second 1659635885: Sending 2 requests/second
+  >> 421: Start
+- Async request ID:423
+  >> 421: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 421: Video is in blacklist, skipping.
+  >> 422: Start
+- Async request ID:424
+  >> 422: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 422: Video is in blacklist, skipping.
+  >> 423: Start
+  >> 423: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 423: Video is in blacklist, skipping.
+  >> 424: Start
+  >> 424: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 424: Video is in blacklist, skipping.
+Second 1659635889: Sending 2 requests/second
+- Async request ID:425
+- Async request ID:426
+  >> 425: Start
+  >> 425: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 425: Video is in blacklist, skipping.
+  >> 426: Start
+  >> 426: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 426: Video is in blacklist, skipping.
+Second 1659635898: Sending 2 requests/second
+- Async request ID:427
+- Async request ID:428
+  >> 427: Start
+  >> 427: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 427: Video is in blacklist, skipping.
+  >> 428: Start
+  >> 428: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 428: Video is in blacklist, skipping.
+Second 1659635901: Sending 2 requests/second
+- Async request ID:429
+- Async request ID:430
+  >> 429: Start
+  >> 429: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 429: Video is in blacklist, skipping.
+  >> 430: Start
+  >> 430: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 430: Video is in blacklist, skipping.
+Second 1659635915: Sending 2 requests/second
+- Async request ID:431
+- Async request ID:432
+  >> 431: Start
+  >> 431: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 431: Video is in blacklist, skipping.
+  >> 432: Start
+  >> 432: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 432: Video is in blacklist, skipping.
+Second 1659635919: Sending 2 requests/second
+- Async request ID:433
+- Async request ID:434
+  >> 433: Start
+  >> 433: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 433: Video is in blacklist, skipping.
+  >> 434: Start
+  >> 434: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 434: Video is in blacklist, skipping.
+Second 1659635921: Sending 2 requests/second
+- Async request ID:435
+- Async request ID:436
+  >> 435: Start
+  >> 435: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 435: Video is in blacklist, skipping.
+  >> 436: Start
+  >> 436: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 436: Video is in blacklist, skipping.
+Second 1659635924: Sending 2 requests/second
+- Async request ID:437
+- Async request ID:438
+  >> 437: Start
+  >> 437: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 437: Video is in blacklist, skipping.
+  >> 438: Start
+  >> 438: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 438: Video is in blacklist, skipping.
+Second 1659635926: Sending 2 requests/second
+- Async request ID:439
+- Async request ID:440
+  >> 439: Start
+Second 1659635927: Sending 2 requests/second
+- Async request ID:441
+  >> 439: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 439: Video is in blacklist, skipping.
+  >> 440: Start
+- Async request ID:442
+  >> 440: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 440: Video is in blacklist, skipping.
+  >> 441: Start
+Second 1659635928: Sending 2 requests/second
+- Async request ID:443
+  >> 441: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 441: Video is in blacklist, skipping.
+  >> 442: Start
+  >> 442: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 442: Video is in blacklist, skipping.
+- Async request ID:444
+  >> 443: Start
+  >> 443: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 443: Video is in blacklist, skipping.
+  >> 444: Start
+  >> 444: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 444: Video is in blacklist, skipping.
+Second 1659635930: Sending 2 requests/second
+- Async request ID:445
+- Async request ID:446
+Second 1659635931: Sending 2 requests/second
+  >> 445: Start
+- Async request ID:447
+  >> 445: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 445: Video is in blacklist, skipping.
+  >> 446: Start
+- Async request ID:448
+  >> 446: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 446: Video is in blacklist, skipping.
+  >> 447: Start
+  >> 447: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 447: Video is in blacklist, skipping.
+  >> 448: Start
+  >> 448: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 448: Video is in blacklist, skipping.
+Second 1659635935: Sending 2 requests/second
+- Async request ID:449
+- Async request ID:450
+  >> 449: Start
+Second 1659635936: Sending 2 requests/second
+- Async request ID:451
+  >> 449: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 449: Video is in blacklist, skipping.
+  >> 450: Start
+- Async request ID:452
+  >> 450: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 450: Video is in blacklist, skipping.
+  >> 451: Start
+  >> 451: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 451: Video is in blacklist, skipping.
+  >> 452: Start
+  >> 452: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 452: Video is in blacklist, skipping.
+Second 1659635939: Sending 2 requests/second
+- Async request ID:453
+- Async request ID:454
+  >> 453: Start
+Joining threads be patient...
+  >> 453: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 453: Video is in blacklist, skipping.
+  >> 454: Start
+  >> 454: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 454: Video is in blacklist, skipping.
+- Joining finished... Resyncing...
+Sending 36 requests/minute
+Position: cpm_timeline[59]...
+Second 1659635941: Sending 2 requests/second
+- Async request ID:455
+- Async request ID:456
+  >> 455: Start
+Second 1659635942: Sending 2 requests/second
+- Async request ID:457
+  >> 455: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 455: Video is in blacklist, skipping.
+  >> 456: Start
+- Async request ID:458
+  >> 456: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 456: Video is in blacklist, skipping.
+  >> 457: Start
+Second 1659635943: Sending 3 requests/second
+- Async request ID:459
+  >> 457: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 457: Video is in blacklist, skipping.
+- Async request ID:460
+  >> 458: Start
+  >> 458: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 458: Video is in blacklist, skipping.
+- Async request ID:461
+  >> 459: Start
+Second 1659635944: Sending 3 requests/second
+- Async request ID:462
+  >> 459: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 459: Video is in blacklist, skipping.
+  >> 460: Start
+  >> 460: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 460: Video is in blacklist, skipping.
+- Async request ID:463
+  >> 461: Start
+  >> 461: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 461: Video is in blacklist, skipping.
+- Async request ID:464
+  >> 462: Start
+Second 1659635945: Sending 2 requests/second
+- Async request ID:465
+  >> 462: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 462: Video is in blacklist, skipping.
+  >> 463: Start
+  >> 463: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 463: Video is in blacklist, skipping.
+- Async request ID:466
+  >> 464: Start
+  >> 464: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 464: Video is in blacklist, skipping.
+  >> 465: Start
+  >> 465: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 465: Video is in blacklist, skipping.
+  >> 466: Start
+  >> 466: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 466: Video is in blacklist, skipping.
+Second 1659635948: Sending 2 requests/second
+- Async request ID:467
+- Async request ID:468
+  >> 467: Start
+Second 1659635949: Sending 2 requests/second
+- Async request ID:469
+  >> 467: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 467: Video is in blacklist, skipping.
+  >> 468: Start
+  >> 468: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 468: Video is in blacklist, skipping.
+- Async request ID:470
+  >> 469: Start
+  >> 469: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 469: Video is in blacklist, skipping.
+  >> 470: Start
+  >> 470: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 470: Video is in blacklist, skipping.
+Second 1659635952: Sending 2 requests/second
+- Async request ID:471
+- Async request ID:472
+  >> 471: Start
+  >> 471: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 471: Video is in blacklist, skipping.
+  >> 472: Start
+  >> 472: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 472: Video is in blacklist, skipping.
+Second 1659635956: Sending 2 requests/second
+- Async request ID:473
+- Async request ID:474
+  >> 473: Start
+  >> 473: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 473: Video is in blacklist, skipping.
+  >> 474: Start
+  >> 474: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 474: Video is in blacklist, skipping.
+Second 1659635968: Sending 2 requests/second
+- Async request ID:475
+- Async request ID:476
+  >> 475: Start
+  >> 475: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 475: Video is in blacklist, skipping.
+  >> 476: Start
+  >> 476: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 476: Video is in blacklist, skipping.
+Second 1659635974: Sending 2 requests/second
+- Async request ID:477
+- Async request ID:478
+  >> 477: Start
+  >> 477: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 477: Video is in blacklist, skipping.
+  >> 478: Start
+  >> 478: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 478: Video is in blacklist, skipping.
+Second 1659635978: Sending 2 requests/second
+- Async request ID:479
+- Async request ID:480
+  >> 479: Start
+  >> 479: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 479: Video is in blacklist, skipping.
+  >> 480: Start
+  >> 480: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 480: Video is in blacklist, skipping.
+Second 1659635994: Sending 2 requests/second
+- Async request ID:481
+- Async request ID:482
+  >> 481: Start
+  >> 481: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 481: Video is in blacklist, skipping.
+  >> 482: Start
+  >> 482: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 482: Video is in blacklist, skipping.
+Second 1659635996: Sending 2 requests/second
+- Async request ID:483
+- Async request ID:484
+  >> 483: Start
+  >> 483: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 483: Video is in blacklist, skipping.
+  >> 484: Start
+  >> 484: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 484: Video is in blacklist, skipping.
+Second 1659636000: Sending 2 requests/second
+- Async request ID:485
+- Async request ID:486
+Joining threads be patient...
+  >> 485: Start
+  >> 485: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 485: Video is in blacklist, skipping.
+  >> 486: Start
+  >> 486: GET-1 (playlistLatestVideo):dZklZVaU4AI
+  >> 486: Video is in blacklist, skipping.
+- Joining finished... Resyncing...
+Sending 48 requests/minute
+Position: cpm_timeline[60]...
+Second 1659636001: Sending 3 requests/second
+- Async request ID:487
+- Async request ID:488
+- Async request ID:489
+Second 1659636002: Sending 3 requests/second
+- Async request ID:490
+  >> 487: Start
+  >> 487: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 487: Async publishing: A new MrBeast upload, this will be fun!
+- Async request ID:491
+  >> 488: Start
+- Async request ID:492
+  >> 489: Start
+Second 1659636003: Sending 3 requests/second
+- Async request ID:493
+  >> 490: Start
+  >> 487: Error (videoComment): Invalid request.
+  >> 488: Error (playlistLatestVideo): Invalid request.
+  >> 488: GET-1 (playlistLatestVideo):None
+  >> 487: PUT-50 (videoComment):None
+  >> 489: Error (playlistLatestVideo): Invalid request.
+  >> 489: GET-1 (playlistLatestVideo):None
+- Async request ID:494
+  >> 487: Error (videoComment): Invalid request.
+  >> 487: PUT-50 (videoComment):None
+  >> 490: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 490: Async publishing: A new MrBeast upload, this will be fun!
+  >> 491: Start
+  >> 487: Error (videoComment_BURST): user_max_burst_attempts exhausted. Gi
+  >> 487: Async publishing: Winner winner chicken dinner!
+- Async request ID:495
+  >> 492: Start
+  >> 493: Start
+Second 1659636004: Sending 2 requests/second
+- Async request ID:496
+  >> 490: PUT-50 (videoComment):True
+  >> 494: Start
+  >> 490: Async publishing: Winner winner chicken dinner!
+  >> 493: Error (playlistLatestVideo): Invalid request.
+  >> 492: Error (playlistLatestVideo): Invalid request.
+  >> 492: GET-1 (playlistLatestVideo):None
+  >> 493: GET-1 (playlistLatestVideo):None
+  >> 494: Error (playlistLatestVideo): Invalid request.
+  >> 494: GET-1 (playlistLatestVideo):None
+  >> 491: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 491: Async publishing: A new MrBeast upload, this will be fun!
+- Async request ID:497
+  >> 495: Start
+  >> 495: Error (playlistLatestVideo): Invalid request.
+  >> 496: Start
+  >> 495: GET-1 (playlistLatestVideo):None
+  >> 491: Error (videoComment): Invalid request.
+  >> 490: Error (videoComment): Invalid request.
+  >> 491: PUT-50 (videoComment):None
+  >> 490: PUT-50 (videoComment):None
+  >> 497: Start
+  >> 497: Error (playlistLatestVideo): Invalid request.
+  >> 491: Error (videoComment): Invalid request.
+  >> 497: GET-1 (playlistLatestVideo):None
+  >> 491: PUT-50 (videoComment):None
+  >> 491: Error (videoComment_BURST): user_max_burst_attempts exhausted. Gi
+  >> 491: Async publishing: Winner winner chicken dinner!
+Second 1659636006: Sending 2 requests/second
+- Async request ID:498
+- Async request ID:499
+  >> 491: PUT-50 (videoComment):True
+  >> 491: Blacklisting processed video: 2isYuQZMbdU
+  >> 498: Start
+  >> 498: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 498: Video is in blacklist, skipping.
+  >> 499: Start
+  >> 499: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 499: Video is in blacklist, skipping.
+Second 1659636009: Sending 2 requests/second
+- Async request ID:500
+- Async request ID:501
+  >> 500: Start
+  >> 500: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 500: Video is in blacklist, skipping.
+  >> 501: Start
+  >> 501: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 501: Video is in blacklist, skipping.
+Second 1659636014: Sending 2 requests/second
+- Async request ID:502
+- Async request ID:503
+  >> 502: Start
+  >> 502: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 502: Video is in blacklist, skipping.
+  >> 503: Start
+  >> 503: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 503: Video is in blacklist, skipping.
+Second 1659636026: Sending 2 requests/second
+- Async request ID:504
+- Async request ID:505
+  >> 504: Start
+  >> 504: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 504: Video is in blacklist, skipping.
+  >> 505: Start
+  >> 505: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 505: Video is in blacklist, skipping.
+Second 1659636028: Sending 2 requests/second
+- Async request ID:506
+- Async request ID:507
+  >> 506: Start
+  >> 506: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 506: Video is in blacklist, skipping.
+  >> 507: Start
+  >> 507: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 507: Video is in blacklist, skipping.
+Second 1659636030: Sending 2 requests/second
+- Async request ID:508
+- Async request ID:509
+  >> 508: Start
+  >> 508: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 508: Video is in blacklist, skipping.
+  >> 509: Start
+  >> 509: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 509: Video is in blacklist, skipping.
+Second 1659636035: Sending 2 requests/second
+- Async request ID:510
+- Async request ID:511
+  >> 510: Start
+  >> 510: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 510: Video is in blacklist, skipping.
+  >> 511: Start
+  >> 511: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 511: Video is in blacklist, skipping.
+Second 1659636037: Sending 2 requests/second
+- Async request ID:512
+- Async request ID:513
+  >> 512: Start
+Second 1659636038: Sending 2 requests/second
+- Async request ID:514
+  >> 512: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 512: Video is in blacklist, skipping.
+  >> 513: Start
+- Async request ID:515
+  >> 513: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 513: Video is in blacklist, skipping.
+  >> 514: Start
+  >> 514: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 514: Video is in blacklist, skipping.
+  >> 515: Start
+  >> 515: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 515: Video is in blacklist, skipping.
+Second 1659636043: Sending 2 requests/second
+- Async request ID:516
+- Async request ID:517
+  >> 516: Start
+  >> 516: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 516: Video is in blacklist, skipping.
+  >> 517: Start
+  >> 517: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 517: Video is in blacklist, skipping.
+Second 1659636045: Sending 2 requests/second
+- Async request ID:518
+- Async request ID:519
+  >> 518: Start
+Second 1659636046: Sending 2 requests/second
+- Async request ID:520
+  >> 518: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 518: Video is in blacklist, skipping.
+  >> 519: Start
+- Async request ID:521
+  >> 519: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 519: Video is in blacklist, skipping.
+  >> 520: Start
+  >> 520: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 520: Video is in blacklist, skipping.
+  >> 521: Start
+  >> 521: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 521: Video is in blacklist, skipping.
+Second 1659636049: Sending 2 requests/second
+- Async request ID:522
+- Async request ID:523
+  >> 522: Start
+Second 1659636050: Sending 2 requests/second
+- Async request ID:524
+  >> 522: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 522: Video is in blacklist, skipping.
+  >> 523: Start
+- Async request ID:525
+  >> 523: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 523: Video is in blacklist, skipping.
+  >> 524: Start
+  >> 524: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 524: Video is in blacklist, skipping.
+  >> 525: Start
+  >> 525: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 525: Video is in blacklist, skipping.
+Second 1659636052: Sending 2 requests/second
+- Async request ID:526
+- Async request ID:527
+  >> 526: Start
+Second 1659636053: Sending 2 requests/second
+- Async request ID:528
+  >> 526: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 526: Video is in blacklist, skipping.
+  >> 527: Start
+- Async request ID:529
+  >> 527: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 527: Video is in blacklist, skipping.
+  >> 528: Start
+Second 1659636054: Sending 2 requests/second
+- Async request ID:530
+  >> 528: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 528: Video is in blacklist, skipping.
+  >> 529: Start
+- Async request ID:531
+  >> 529: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 529: Video is in blacklist, skipping.
+  >> 530: Start
+  >> 530: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 530: Video is in blacklist, skipping.
+  >> 531: Start
+  >> 531: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 531: Video is in blacklist, skipping.
+Joining threads be patient...
+  >> 487: Error (videoComment): Invalid request.
+  >> 487: PUT-50 (videoComment):None
+  >> 490: Error (videoComment): Invalid request.
+  >> 490: PUT-50 (videoComment):None
+  >> 490: Error (videoComment_BURST): user_max_burst_attempts exhausted. Gi
+  >> 490: Blacklisting processed video: 2isYuQZMbdU
+  >> 496: GET-1 (playlistLatestVideo):2isYuQZMbdU
+  >> 496: Video is in blacklist, skipping.
+  >> 487: PUT-50 (videoComment):True
+  >> 487: Blacklisting processed video: 2isYuQZMbdU
+Traceback (most recent call last):
+  File "C:\python\lib\runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "C:\python\lib\runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "c:\xdev\ytfico\__main__.py", line 253, in <module>
+  File "C:\python\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\python\lib\asyncio\base_events.py", line 628, in run_until_compl
+    self.run_forever()
+  File "C:\python\lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\python\lib\asyncio\base_events.py", line 595, in run_forever
+    self._run_once()
+  File "C:\python\lib\asyncio\base_events.py", line 1881, in _run_once
+    handle._run()
+  File "C:\python\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\xdev\ytfico\__main__.py", line 244, in main
+
+  File "c:\xdev\ytfico\__main__.py", line 193, in synchronization
+    print("- Joining finished... Resyncing...")
+  File "C:\python\lib\threading.py", line 1089, in join
+    self._wait_for_tstate_lock()
+  File "C:\python\lib\threading.py", line 1109, in _wait_for_tstate_lock
+    if lock.acquire(block, timeout):
+KeyboardInterrupt
+^C
+c:\xdev\ytfico (main -> origin)
+(venv) λ

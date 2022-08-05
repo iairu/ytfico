@@ -1,0 +1,3 @@
+i ran 4 instances each on a different youtube account
+
+after running comment saver script, i identified that my comment got processed 20:00:02 UTC and only roughly first two comments have managed to strike 20:00:00 UTC - it really could be about proximity to data centres, but nothing guarantees the order in which youtube will really save these - in other words: you can get close and the rest is up to randomness of the universe
