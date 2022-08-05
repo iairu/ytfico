@@ -1,10 +1,10 @@
 from datetime import datetime
-from _yt_api import YTCommenter
+from __yt_api import YTCommenter
 
 user_video_id = "CHANGE_ME"
 
 yt, yt_uid = YTCommenter.initialize(request_uid=False)
-log = open("_yt_comment_finder.log", "a", encoding="utf-8")
+log = open("comment_saver.log", "a", encoding="utf-8")
 
 nextPageToken = None
 i = 0

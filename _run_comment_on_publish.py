@@ -5,7 +5,7 @@ import numpy as np
 import asyncio
 from threading import Thread
 
-from _yt_api import YTCommenter
+from __yt_api import YTCommenter
 
 def printer(timeline, arr):
     out = ""
@@ -245,5 +245,4 @@ async def main():
     YTCommenter.report()
 
 
-if __name__ == "__main__":
-    asyncio.run(main())
+asyncio.run(main())
